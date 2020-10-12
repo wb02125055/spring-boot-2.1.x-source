@@ -296,7 +296,7 @@ public class SpringApplication {
 		// 用来记录时间
 		StopWatch stopWatch = new StopWatch();
 		stopWatch.start();
-		//
+		// a
 		ConfigurableApplicationContext context = null;
 		Collection<SpringBootExceptionReporter> exceptionReporters = new ArrayList<>();
 		configureHeadlessProperty();
